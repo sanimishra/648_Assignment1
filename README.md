@@ -1,9 +1,8 @@
 # Assignment1
 This web page provides information about Vecta Corporation such as their innovative solutions,Client testimonials,address and their management teams
 
- **Vecta corporation** 
- 
-_Vecta Corporation provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction_.
+  
+ _**Vecta corporation** provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction_.
 
 #### Solutions
 =============
