@@ -7,18 +7,18 @@ _Vecta Corporation provides scalable business solutions to help companies achiev
 
 #### Solutions
 =============
- > + Define and research your target audience, define your strategy to reach that audience and present a strong and memorable brand to thast audience.
+* Define and research your target audience, define your strategy to reach that audience and present a strong and memorable brand to thast audience.
 
- > + Create a highly user-friendly and easy-to-navigate information architecture that will help your prospects interact with the company on a highly interactive level.
+* Create a highly user-friendly and easy-to-navigate information architecture that will help your prospects interact with the company on a highly interactive level.
 
- > + Build on existing customer relationships to improve productivity and maximize customer loyalty, while growing revenues.
+* Build on existing customer relationships to improve productivity and maximize customer loyalty, while growing revenues.
 
  #### Contact 
 ==============
-_[Vecta Corporation](https://github.com/sanimishra/648_Assignment1/blob/master/index.html)  
-555 Technology Place  
-San Diego, CA 92115  
-Tel. (800) 555-5555_
+> + _[Vecta Corporation](https://github.com/sanimishra/648_Assignment1/blob/master/index.html)  
+    555 Technology Place  
+    San Diego, CA 92115  
+    Tel. (800) 555-5555_
 
 
 
